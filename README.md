@@ -1,2 +1,2 @@
-# HackerRank
-The coding examples and practices I did on HackerRank.com
+# CodingInterviews
+The coding examples and practices I did on HackerRank, LeetCode, etc
